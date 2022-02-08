@@ -6,7 +6,7 @@ import (
 
 func HighScoreWord(s string) string {
 
-	alpha := "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+	const alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 	//string to slice
 	arr := strings.Fields(s)
@@ -35,5 +35,4 @@ func HighScoreWord(s string) string {
 	}
 
 	return wrdScore
-
 }
