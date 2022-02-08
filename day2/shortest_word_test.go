@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestShortestWordTest(t *testing.T) {
+func TestShortestWord(t *testing.T) {
 
 	phrase1 := "The things you used to own, now they own you"
 	t.Run("Shortest word in phrase has lengeth 2", func(t *testing.T) {
