@@ -10,4 +10,4 @@ The parameter of accum is a string which includes only letters from a..z and A..
 
 [`#fundamentals`](#fundamentals)
 
-[See Code Wars Kata](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)  
+[See Code Wars Kata](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)  
