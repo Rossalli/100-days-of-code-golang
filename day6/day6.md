@@ -1,4 +1,3 @@
-
 # Find the unique number
 
 **Instructions:**  There is an array with some numbers. All numbers are equal except for one. Try to find it!
